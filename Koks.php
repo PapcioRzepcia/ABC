@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    Tyyyyyychyyyyyy Fałcons dasd dSADSAD
+    Dostałem mesydż
+    
 </body>
 </html>
